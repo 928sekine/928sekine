@@ -1,23 +1,22 @@
-# About Me
+# 私について
 
-1. I'm a web frontend and backend developer from Japan
+1. 日本・埼玉県在住のフロントエンドエンジニアを目指すコーダーです。
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+2. お気に入りはHTMLです。jQueryも好き。
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+3. このGitHubでは、ポートフォリオの一部を紹介しています。
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=928sekine&show_icons=true&locale=en&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+## プログラミング言語
 
-## Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php," /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+## デザイン系ソフト
 
-## Frameworks and Library
+<img src="https://skillicons.dev/icons?i=ai,ps,xd,figma," /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+## その他ライブラリ・バージョン管理システムなど
 
-## DB and Dev Tools etc
+<img src="https://skillicons.dev/icons?i=vscode,wordpress,git,discord," /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
