@@ -11,7 +11,7 @@
 
 [ハンバーガー屋さんサイト](https://928sekine.github.io/hamburger-shop/)
 
-[WordPress　ブログ](https://sekinerina.com/)
+[WordPress　ブログ](https://portfolio.sekinerina.com/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=928sekine&show_icons=true&locale=en&layout=compact)
 
