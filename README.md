@@ -13,6 +13,7 @@
 
 [WordPress　ブログ](https://portfolio.sekinerina.com/)
 
+[作成中！副業用自己紹介サイト](https://928sekine.github.io/my-website/)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=928sekine&show_icons=true&locale=en&layout=compact)
 
 ## プログラミング言語
