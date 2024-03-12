@@ -6,6 +6,8 @@
 
 3. このGitHubでは、ポートフォリオの一部を紹介しています。
 
+[メモブログ](https://gitpress.io/@928sekine/)
+
 # ポートフォリオ
 [歯医者さんサイト](https://928sekine.github.io/)
 
