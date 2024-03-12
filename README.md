@@ -6,7 +6,6 @@
 
 3. このGitHubでは、ポートフォリオの一部を紹介しています。
 
-[メモブログ](https://gitpress.io/@928sekine/)
 
 # ポートフォリオ
 [歯医者さんサイト](https://928sekine.github.io/)
@@ -17,6 +16,7 @@
 
 [作成中！副業用自己紹介サイト](https://sekinerina.com/)
 
+[技術メモブログ](https://gitpress.io/@928sekine/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=928sekine&show_icons=true&locale=en&layout=compact)
 
