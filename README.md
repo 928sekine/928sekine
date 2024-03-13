@@ -8,6 +8,9 @@
 
 
 # ポートフォリオ
+[![アートボード 1-100](https://github.com/928sekine/928sekine/assets/78334118/c0f57566-410b-4baf-939c-be42f5f67dc5)
+](https://928sekine.github.io/)
+
 [歯医者さんサイト](https://928sekine.github.io/)
 
 [ハンバーガー屋さんサイト](https://928sekine.github.io/hamburger-shop/)
