@@ -17,6 +17,8 @@
 [![アートボード 1 のコピー 2-100](https://github.com/928sekine/928sekine/assets/78334118/132badc7-6d09-4dc9-9720-0a75d51b654f)
 ](https://portfolio.sekinerina.com/)
 
+[作成中！	コーポレートサイト](https://928sekine.github.io/corporate-site-practice/)
+
 [![アートボード 1 のコピー 3-100](https://github.com/928sekine/928sekine/assets/78334118/df6abf8d-2bb2-493b-9c15-d664fc019a11)
 ](https://sekinerina.com/)
 
