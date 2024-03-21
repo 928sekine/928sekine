@@ -1,12 +1,3 @@
-# 私について
-
-1. 日本・埼玉県在住でコーダーを目指しています。
-
-2. お気に入りはHTMLです。jQueryも好き。
-
-3. このGitHubでは、ポートフォリオの一部を紹介しています。
-
-
 # ポートフォリオ
 [![アートボード 1-100](https://github.com/928sekine/928sekine/assets/78334118/c0f57566-410b-4baf-939c-be42f5f67dc5)
 ](https://928sekine.github.io/)
@@ -25,6 +16,15 @@
 [![アートボード 1 のコピー 4-100](https://github.com/928sekine/928sekine/assets/78334118/64271c40-acf6-4cda-8a3b-ac2f0e295132)
 ](https://gitpress.io/@928sekine/)
 
+
+
+# 私について
+
+1. 日本・埼玉県在住でコーダーを目指しています。
+
+2. お気に入りはHTMLです。jQueryも好き。
+
+3. このGitHubでは、ポートフォリオの一部を紹介しています。
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=928sekine&show_icons=true&locale=en&layout=compact)
