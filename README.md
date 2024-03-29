@@ -14,7 +14,7 @@
 ](https://sekinerina.com/)
 
 [![アートボード 1 のコピー 4-100](https://github.com/928sekine/928sekine/assets/78334118/64271c40-acf6-4cda-8a3b-ac2f0e295132)
-]([https://gitpress.io/@928sekine/](https://928sekine.github.io/))
+](https://928sekine.github.io/))
 
 
 
