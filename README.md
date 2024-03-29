@@ -1,6 +1,6 @@
 # ポートフォリオ
 [![アートボード 1-100](https://github.com/928sekine/928sekine/assets/78334118/c0f57566-410b-4baf-939c-be42f5f67dc5)
-]( https://928sekine.github.io/dental-clinic/)
+](https://928sekine.github.io/dental-clinic/)
 
 [![アートボード 1 のコピー-100](https://github.com/928sekine/928sekine/assets/78334118/3098a6d4-5143-4b29-9430-619b516d0946)
 ](https://928sekine.github.io/hamburger-shop/)
