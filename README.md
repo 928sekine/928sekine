@@ -13,7 +13,7 @@
 [![アートボード 1 のコピー 3-100](https://github.com/928sekine/928sekine/assets/78334118/df6abf8d-2bb2-493b-9c15-d664fc019a11)
 ](https://sekinerina.com/)
 
-[作成中！　技術メモ](https://928sekine.github.io/)
+[技術メモ][(https://928sekine.github.io/](https://zenn.dev/928sekine))
 
 
 
